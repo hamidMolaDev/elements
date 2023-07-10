@@ -1,0 +1,41 @@
+body {
+  background-color:cadetblue;
+   
+}
+.h1-class {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+  color: black;
+  text-align: center; 
+  margin-bottom: 30px;
+  border-style:double; 
+  padding: 10px;   
+}
+.hidden-paragraph {
+  display: none;
+  background-color: #f9f9f9; 
+  padding: 10px; 
+  background-color: transparent;
+  font-size: 17px;
+  font-weight: bold;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+  
+}
+
+.paragraph-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px; 
+}
+
+.button-class {
+  font-family:cursive;
+  font-weight: 600px;
+  font-size: 16px;
+  height: 30px;
+  width: 200px;
+  color: white;
+  background-color:rgb(20, 24, 24);
+  border: none;
+  border-radius: 5px;
+
+}
